@@ -5,7 +5,7 @@ local_binary_pattern, blobs detection
 and history graph with sqlite and aws rds.
 should modify for testing, 
 let me make one when I have time. this is for urgent source reference.
-
+wish any help for your study, work.
 
 
 * Configuration
